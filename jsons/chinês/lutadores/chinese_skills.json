@@ -3766,7 +3766,7 @@
                                         "description_pt": "Obtenha o "Escudo de Gelo" (a força do escudo é de 50% do seu valor máximo de saúde, durante a duração, imunidade ao atordoamento, paralisia, silêncio, petrificação, taxa de imunidade de 30%, pequena habilidade de resistência e resistência a acrobacias) , As duas primeiras rodadas da geração "Escudo de Gelo" fornecerão uma taxa de imunidade adicional de 20%, resistência a habilidades menores e resistência a acrobacias; quando o escudo é quebrado, a taxa de imunidade e resistência que ele fornece serão aumentadas pelo valor atual Reservado para uma rodada; se houver apenas um jogador no palco, a taxa de dano e o dano por acrobacias serão aumentados em 50% para todo o processo; quando o dano letal for recebido, o corpo será imediatamente congelado para dissipar seu estado negativo (incluindo petrificação), e não será selecionado como alvo durante o período , Na próxima vez que seu lado entrar em ação, ele liberará o gelo e restaurará 30% da saúde e 300 pontos de fúria. Este efeito só pode ser acionado uma vez por batalha; Kula é imune a congelamento e "congelamento"; quando o turno do inimigo é reduzido, Responder 150 raiva imediatamente. [Habilidade de Perigo] Ao entrar no campo, reduza todo o poder de ataque do inimigo (continua todo o processo) e taxa de prevenção de dano de 10% (2 rodadas)
                                         "description_zh": null,
 	                        }
-                        ]
-                }
-        ]                  
-
+			 [
+		  }
+	   [
+    }
