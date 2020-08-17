@@ -3731,8 +3731,42 @@
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": ""
-				}
-			]
-		}
-	]
-}
+		                }
+                        [
+                 },
+                 {
+                        "fighter_id": "KULA_XIV",
+	                "skills": [
+		                {
+			                "name": "rotação da luz",
+                                        "description": null,
+			                "description_es": null,
+			                "description_pt": "Ataque uma coluna, aumente sua taxa de bloqueio e de motim em 20%; restaure 20% de seu próprio escudo, se você não tiver um escudo, restaure 10% de sua saúde máxima; absorva 200 pontos de raiva do alvo principal; 30% de probabilidade de congelar o alvo principal, Congela com sucesso o alvo para 20% de dano adicional",
+		  	                "description_zh": null,
+		                },
+                                {
+        
+                                        "name": "Encantamento de diamante",
+                                        "description": null,
+                                        "description_es": null,
+                                        "descreption_pt": "Ataque todos, quanto menor o número de inimigos, maior o dano desta vez, o aumento máximo é 120%; aumente seu próprio ataque e defesa e força de motim em 20%; reduza a taxa de dano de alvos com raiva maior que 500 em 20%; 50% de probabilidade de congelar 2 alvos aleatórios; Reduza a taxa de tumulto e a taxa de cura do alvo congelado em 20%; causa 8% do dano máximo à saúde do alvo congelado; acione o "Campo Ártico" (continuando todo o processo); ganhe o "Coração Ártico" (2 rodadas, se no campo) Se houver um "campo de frio extremo", a velocidade de recuperação da raiva do inimigo será reduzida em 30% e não pode ser dissipada; (este efeito de habilidade ignora imunidade negativa, exceto para congelamento); após a arma ser despertada, o efeito é totalmente melhorado e o congelamento é fortalecido para "frio Geada congelada".",
+                                        "description_zh": null,
+                                },
+                                {
+                                        "name": "sound nest blood attack aprimorado",
+                                        "description": null,
+                                        "description_es": null,
+                                        "description_pt": "aumente permanentemente seu próprio poder de ataque e saúde",
+                                        "description_zh": null,
+                                },  
+                                {
+                                        "name": "elfo de gelo"
+                                        "description": null,
+                                        "description_es": null,
+                                        "description_pt": "Obtenha o "Escudo de Gelo" (a força do escudo é de 50% do seu valor máximo de saúde, durante a duração, imunidade ao atordoamento, paralisia, silêncio, petrificação, taxa de imunidade de 30%, pequena habilidade de resistência e resistência a acrobacias) , As duas primeiras rodadas da geração "Escudo de Gelo" fornecerão uma taxa de imunidade adicional de 20%, resistência a habilidades menores e resistência a acrobacias; quando o escudo é quebrado, a taxa de imunidade e resistência que ele fornece serão aumentadas pelo valor atual Reservado para uma rodada; se houver apenas um jogador no palco, a taxa de dano e o dano por acrobacias serão aumentados em 50% para todo o processo; quando o dano letal for recebido, o corpo será imediatamente congelado para dissipar seu estado negativo (incluindo petrificação), e não será selecionado como alvo durante o período , Na próxima vez que seu lado entrar em ação, ele liberará o gelo e restaurará 30% da saúde e 300 pontos de fúria. Este efeito só pode ser acionado uma vez por batalha; Kula é imune a congelamento e "congelamento"; quando o turno do inimigo é reduzido, Responder 150 raiva imediatamente. [Habilidade de Perigo] Ao entrar no campo, reduza todo o poder de ataque do inimigo (continua todo o processo) e taxa de prevenção de dano de 10% (2 rodadas)
+                                        "description_zh": null,
+	                        }
+                        ]
+                }
+        ]                  
+
