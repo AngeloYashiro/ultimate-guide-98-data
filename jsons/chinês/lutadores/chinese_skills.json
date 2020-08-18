@@ -3474,31 +3474,31 @@
 			"fighter_id": "MIZUCHI",
 			"skills": [
 				{
-					"name": null,
+					"name": "Lift",
 					"description": "Attack enemy's; 40% chance to stun the main target; reduce the main target's attack and defense by 20% (2 rounds); cause 30% additional damage to all targets affected by \"septic blood\"; restore their own HP, the value is equal to the enemy 50% of the total value of the \"septic\" effect received by all characters on the field (recover at least 80% of their own attack power); if at least half of the characters on the enemy field are affected by \"septic\", the minor skills will switch To attack all the enemy",
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque um único inimigo; 40% de chance de atordoar o alvo principal; reduza o ataque e a defesa do alvo principal em 20% (2 rodadas); causa 30% de dano adicional a todos os alvos afetados por "sangue séptico"; restaure sua própria saúde, o valor é igual ao do inimigo 50% do valor total do efeito "séptico" recebido por todos os personagens no campo (recupera pelo menos 80% de seu próprio poder de ataque); se pelo menos metade dos personagens no campo inimigo são afetados por "séptico", a skill sera trocada para atacar todos os inimigos",
 					"description_zh": null
 				},
 				{
-					"name": null,
+					"name": "Good God",
 					"description": "Attack the enemy with the highest HP; increase its own damage by 20% to avoid debuff; increase its own offense and defense according to the target's life ratio before being hit (minimum 5%, maximum 15%); cause additional damage of 8% of the target's life limit; cause 20% The \"septic\" effect (destroy the upper limit of the target's life, the amount of damage is equivalent to a certain percentage of the loss of life from this skill); dispel the negative status and petrification of a fighter in our side (the controlled one is preferred); after death , Resurrect the next time you take action, restore 30% of your health, and return to full anger (this effect can only be triggered once per battle). After the weapon is awakened, the effect is fully improved, and part of the target's anger can be extracted",
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque o inimigo com o HP mais alto; aumente seu próprio dano em 20% para evitar ferimentos; aumente seu próprio ataque e defesa com base na taxa de vida do alvo antes de ser atingido (mínimo 5%, máximo 15%); causa dano adicional de 8% da vida máxima do alvo; causa 20% O efeito de "sangue séptico"(destruindo o limite superior da vida do alvo,a quantidade de dano é equivalente a uma certa porcentagem da perda de vida desta habilidade);dissipando o estado negativo e petrificação de um lutador ao nosso lado (o controlado é preferível); após a morte,Ressuscite na próxima vez que você agir, restaure 30% de sua saúde e restaure toda sua raiva (este efeito só pode ser acionado uma vez por batalha).Depois que a arma é despertada,o efeito é totalmente melhorado e parte da raiva do alvo pode ser extraída",
 					"description_zh": "攻击敌方生命值最高单体；提升自身20%伤害免伤；根据目标受击前生命比例提升自身攻防（最少5%，最多15%）；造成目标8%生命上限的额外伤害；造成20%的“败血”效果（破坏目标生命上限，破坏量等同于本次技能使其损失生命值的一定比例）；驱散我方一名格斗家（被控制者优先）的负面状态及石化；死亡后，在下次己方行动时复活，回复30%生命值，并回满怒气（该效果每场战斗仅可触发一次）。武器觉醒后，效果全面提升，井可抽取目标部分怒气\r\n对目标造成 %+ 点伤害（1级，每级增加0.5%，24点）\r\n对目标造成 %+ 点伤害（132级）"
 				},
 				{
-					"name": null,
+					"name": "Protoss blood attack enhancement",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Aumente permanentemente seu próprio poder de ataque e saúde",
 					"description_zh": "永久提升自身的攻击力和生命值\r\n提升自身 %攻击力和生命值（1级，每级增加0.05%）\r\n提升自身 %攻击力和生命值（132级）"
 				},
 				{
-					"name": null,
+					"name": "Earth Will pseudo",
 					"description": "When you enter the field, increase your own damage rate and damage immunity rate, and other characters on your side gain 50% effect; if you have more than one player when you enter the field, at the beginning of each round, the fighter with the lowest health rate will restore 10% of health to An under-furious fighter on his side returns 100 anger, with a 50% probability of silence a random enemy for one round; the first round of appearance is immune control and rage reduction effect; every time he is critically hit or his health falls below 30% after being hit, Recover 30% of the lost health of oneself, and increase 10% riot rate and 7% small skill probability (stackable, lasting the entire battle), each battle takes effect up to 4 times, reset after resurrection; caused by Jiao’s skills All damage ignores the immune negative status effect; when it enters the field, it provides self- buffs according to the type of each fighter (not including self) on the field (each of the following buffs can be stacked up to three times); attack: each provides 20% bloodsucking rate ; Defense: Each player provides 10% crit rate; Skill: Each player provides 10% rage return speed, and an additional 100 rage is gained on the stage; [Captain Skill] When on the stage, if there is an offense in all fighters on the field except yourself There are three types of fighters:, defense, and skill, which increase the resistance of all your own fighters by 30% and 15% damage prevention rate for 2 rounds (cannot be effective with other captain skills at the same time)",
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ao entrar no campo de batalha, aumente sua própria taxa de dano e taxa de imunidade, e outros personagens no campo de batalha ganham 50% de efeito; se houver mais de um jogador no campo de batalha, no início de cada rodada, o combatente com a menor taxa de saúde restaurará 10% de sua saúde, que é Um lutador furioso do seu lado retorna 100 de raiva, com 50% de probabilidade de silenciar um inimigo aleatório por uma rodada; a primeira rodada de aparecimento é o controle imunológico e o efeito de redução da raiva; toda vez que ele é criticamente atingido ou sua saúde cai para menos de 30% após ser atingido, Recuperar 30% da saúde perdida de si mesmo e aumentar a taxa de tumulto de 10% e 7% de probabilidade de habilidade pequena (empilhável, durando toda a batalha), cada batalha tem efeito até 4 vezes, redefinida após a ressurreição; causada pelas habilidades de Jiao Todo dano ignora o efeito do status imunológico negatentra no campo, fornece buffs próprios de acordo com o tipo de cada lutador (não incluindo o próprio) no campo (cada um dos seguintes buffs pode ser empilhado até três vezes);ataque: cada um fornece 20% de taxa de sugação de sangue ;Defesa: Cada jogador fornece 10% de taxa de crítico;Gank: Cada jogador fornece 10% de velocidade de retorno de raiva e ganha 100 de raiva adicionais no palco;[Habilidade de Capitão] Quando no palco,se houver ofensas em todos os lutadores do seu lado,exceto você Existem três tipos de lutadores: Tank e Gank,que aumentam a resistência de todos os seus próprios lutadores em 30% e taxa de prevenção de danos de 15% por 2 rodadas (não pode ser eficaz com outras habilidades de capitão)",
 					"description_zh": "登场时，提升自身伤害率及免伤率，己方场上其他角色获得50%效果；若登场时己方多于一人，则每回合开始时，为己方生命比例最低格斗家回复10%生命值，为己方一名未满怒格斗家回复100怒气，50%概率沉默随机一名敌人一回合；登场首回合免疫控制及降怒效果；每次被暴击或受击后生命值低于30%时，恢复自身已损失生命值的30%，并提升10%抗暴率和7%小技能概率（可叠加，持续整场战斗），每场战斗最多生效4次，复活后重置；蛟的技能造成的所有伤害无视免疫负面狀态效果；\r\n登场时，根据己方场上各个格斗家（不含自身）的类型为自身提供增益（以下每种增益最多可叠加三次）；\r\n攻：每名提供20%吸血率；\r\n防：每名提供10%暴击率；\r\n技：每名提供10%回怒速度，登场时额外获得100怒气；\r\n【队长技】登场时，若己方场上除自身外的所有格斗家中存在攻、防、技三种格斗家，增加己方全体格斗家30%绝技抗性和15%免伤率2回合（不能与其他队长技同时生效）\r\n提升自身 %伤害率，提升自身 %免伤率（1级，每级增加0.06%，0.1%）\r\n提升自身 %伤害率，提升自身 %免伤率（132级）"
 				}
 			]
